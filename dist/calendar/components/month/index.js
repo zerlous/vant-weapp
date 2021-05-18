@@ -100,11 +100,11 @@ VantComponent({
     getRangeDayType(day) {
       const { currentDate, allowSameDay } = this.data;
       if (!Array.isArray(currentDate)) {
-        return;
+        return '';
       }
       const [startDay, endDay] = currentDate;
       if (!startDay) {
-        return;
+        return '';
       }
       const compareToStart = compareDay(day, startDay);
       if (!endDay) {
@@ -123,6 +123,7 @@ VantComponent({
       if (compareToStart > 0 && compareToEnd < 0) {
         return 'middle';
       }
+      return '';
     },
     getDayType(day) {
       const { type, minDate, maxDate, currentDate } = this.data;
@@ -139,6 +140,7 @@ VantComponent({
       if (type === 'range') {
         return this.getRangeDayType(day);
       }
+      return '';
     },
     getBottomInfo(type) {
       if (this.data.type === 'range') {

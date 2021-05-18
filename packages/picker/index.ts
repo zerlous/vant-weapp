@@ -2,6 +2,7 @@ import { VantComponent } from '../common/component';
 import { pickerProps } from './shared';
 
 interface Column {
+  // eslint-disable-next-line
   values: object[];
   defaultIndex?: number;
 }

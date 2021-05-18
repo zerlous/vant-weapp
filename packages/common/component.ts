@@ -1,6 +1,7 @@
 import { basic } from '../mixins/basic';
 import { VantComponentOptions } from 'definitions/index';
 
+// eslint-disable-next-line
 function mapKeys(source: object, target: object, map: object) {
   Object.keys(map).forEach((key) => {
     if (source[key]) {
