@@ -3055,10 +3055,10 @@
     eslint-plugin-markdown "^2.0.0"
     eslint-plugin-vue "^7.1.0"
 
-"@vant/icons@1.5.3":
-  version "1.5.3"
-  resolved "https://registry.yarnpkg.com/@vant/icons/-/icons-1.5.3.tgz#b7779f67bf608d417a82452fbede406dfa46b439"
-  integrity sha512-OQaJqAWN6quHicWje4buknX9zcDo3UDy3X4nrk/ldnr9Fj8Str4nMtQbMbIrCMtmjQdP2ei769uuY508dudrjA==
+"@vant/icons@1.8.0":
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/@vant/icons/-/icons-1.8.0.tgz#36b13f2e628b533f6523a93a168cf02f07056674"
+  integrity sha512-sKfEUo2/CkQFuERxvkuF6mGQZDKu3IQdj5rV9Fm0weJXtchDSSQ+zt8qPCNUEhh9Y8shy5PzxbvAfOOkCwlCXg==
 
 "@vant/markdown-loader@^4.1.0":
   version "4.1.0"
