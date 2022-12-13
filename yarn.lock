@@ -10910,9 +10910,9 @@ minimist@^1.1.1, minimist@^1.1.3, minimist@^1.2.0, minimist@^1.2.5:
   integrity sha1-Z9ZgFLZqaoqqDAg8X9WN9OTpdgI=
 
 miniprogram-api-typings@^3.1.6:
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/miniprogram-api-typings/-/miniprogram-api-typings-3.3.1.tgz#1cc58437873fe01c1b4f382aa7630bd73d848c42"
-  integrity sha512-3MTHaLgcuaLlMiEIVn3OdzJjLKgZfkpV/KrwxUYIL/+4b4BM6TAFYcwsXmQH7edOG9AUwU7pkQESpzE0ZjpPUQ==
+  version "3.7.0"
+  resolved "https://registry.yarnpkg.com/miniprogram-api-typings/-/miniprogram-api-typings-3.7.0.tgz#4a3888c37d4e2674d4bb68b0d50079990bce60cf"
+  integrity sha512-8DKzG7WapBg+faeCW8enhyr/rSppGdR/Nz3M+HHGpgL7kR83w2YhjxU8+uLDb4VaRMNIr1eGG5fJUTRHinkjyg==
 
 miniprogram-ci@^1.0.27:
   version "1.2.3"
